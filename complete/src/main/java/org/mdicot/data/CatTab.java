@@ -5,6 +5,7 @@ package org.mdicot.data;
  * and open the template in the editor.
  */
 
+import java.io.Serializable;
 import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
